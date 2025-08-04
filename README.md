@@ -38,8 +38,10 @@ p2p_monitoring_system/
 Install required libraries:
 
 ```bash
-pip install psutil scikit-learn cryptography mininet
+pip install psutil scikit-learn pycryptodome mininet
 ```
+
+**Note**: Mininet typically requires `sudo` on Linux systems for proper network interface access and is primarily designed for Linux environments.
 
 ##  How to Run
 
@@ -65,13 +67,14 @@ python honeypot.py
 ### 3️⃣ Start Peer Nodes (Clients)
 
 ```bash
-python peer.py
+python peer.py <peer_id>
 ```
 
+- Replace `<peer_id>` with a unique identifier for each peer (e.g., `peer_1`, `peer_2`).
 - Sends CPU, bandwidth, and storage metrics every 10 seconds
 - Communicates with the Coordinator using AES-256 encryption
 
-Run multiple peers in separate terminals:
+Run multiple peers in separate terminals, providing a unique ID for each:
 
 ```bash
 python peer.py peer_1
@@ -80,7 +83,7 @@ python peer.py peer_2
 
 ### 4️⃣ (Optional) Emulate SkyEye KOM Topology
 
-**Requires Linux or WSL2**
+**Requires Linux or WSL2 and root privileges**
 
 ```bash
 sudo python network.py
@@ -133,9 +136,7 @@ Simulates a hierarchical P2P network with coordinators and peers.
 
 ## ⚠️ Disclaimer
 
-**This implementation is for academic and research purposes only.**
-
-Do not deploy on production networks without proper security audits and thorough testing.
+**This implementation is for academic and research purposes only. Keys are exchanged in-the-clear in this prototype; do not use in production without proper security audits and thorough testing.**
 
 ## 📄 License
 

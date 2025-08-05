@@ -108,3 +108,7 @@
 2025-08-06 00:43:20,260: Updated attributes for peer test_peer_1
 2025-08-06 00:43:31,271: Received packet from ('127.0.0.1', 51934): attribute_update
 2025-08-06 00:43:31,279: Updated attributes for peer test_peer_1
+2025-08-06 00:43:42,290: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:43:42,297: Updated attributes for peer test_peer_1
+2025-08-06 00:43:53,308: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:43:53,316: Updated attributes for peer test_peer_1

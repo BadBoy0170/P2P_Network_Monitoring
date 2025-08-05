@@ -96,3 +96,7 @@
 2025-08-06 00:43:20,260: Attributes sent and acknowledged
 2025-08-06 00:43:31,268: Measured attributes: {'upload_bandwidth': 5.807796919773114, 'download_bandwidth': 5.263315958544385, 'storage': 88.15250778198242, 'cpu': 7.1}
 2025-08-06 00:43:31,280: Attributes sent and acknowledged
+2025-08-06 00:43:42,288: Measured attributes: {'upload_bandwidth': 2.813230272260813, 'download_bandwidth': 5.354212453657676, 'storage': 88.16977310180664, 'cpu': 15.4}
+2025-08-06 00:43:42,297: Attributes sent and acknowledged
+2025-08-06 00:43:53,306: Measured attributes: {'upload_bandwidth': 3.9028666035762454, 'download_bandwidth': 3.9936309431942973, 'storage': 88.16931533813477, 'cpu': 12.7}
+2025-08-06 00:43:53,316: Attributes sent and acknowledged

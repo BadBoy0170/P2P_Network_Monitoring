@@ -1,7 +1,11 @@
 import json
 import base64
-from Crypto.Cipher import AES
-from Crypto.Random import get_random_bytes
+try:
+    from Crypto.Cipher import AES
+    from Crypto.Random import get_random_bytes
+except ImportError:
+    from crypto.Cipher import AES
+    from crypto.Random import get_random_bytes
 import logging
 
 def setup_logging(filename):

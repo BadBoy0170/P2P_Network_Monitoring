@@ -1,0 +1,98 @@
+2025-08-05 21:31:41,827: Loaded coordinator key
+2025-08-05 21:31:41,829: Could not connect to coordinator at localhost:5001
+2025-08-06 00:35:00,170: Loaded coordinator key
+2025-08-06 00:35:00,171: Peer test_peer_1 connected to Coordinator at localhost:5001
+2025-08-06 00:35:01,177: Measured attributes: {'upload_bandwidth': 0.0, 'download_bandwidth': 0.0, 'storage': 88.21468734741211, 'cpu': 15.2}
+2025-08-06 00:35:04,350: Attributes sent and acknowledged
+2025-08-06 00:35:15,360: Measured attributes: {'upload_bandwidth': 3.6663368309901014, 'download_bandwidth': 4.300895128661465, 'storage': 88.21467971801758, 'cpu': 13.2}
+2025-08-06 00:35:15,369: Attributes sent and acknowledged
+2025-08-06 00:35:26,377: Measured attributes: {'upload_bandwidth': 2.178463513727117, 'download_bandwidth': 2.7230793921588963, 'storage': 88.21366500854492, 'cpu': 13.1}
+2025-08-06 00:35:26,392: Attributes sent and acknowledged
+2025-08-06 00:35:37,401: Measured attributes: {'upload_bandwidth': 3.9000594777483917, 'download_bandwidth': 4.897749111591003, 'storage': 88.21362686157227, 'cpu': 14.0}
+2025-08-06 00:35:37,413: Attributes sent and acknowledged
+2025-08-06 00:35:48,424: Measured attributes: {'upload_bandwidth': 18.05658668613894, 'download_bandwidth': 7.077456088034358, 'storage': 88.2126693725586, 'cpu': 14.0}
+2025-08-06 00:35:48,436: Attributes sent and acknowledged
+2025-08-06 00:35:59,446: Measured attributes: {'upload_bandwidth': 0.9978908339315652, 'download_bandwidth': 2.26793371348083, 'storage': 88.21267318725586, 'cpu': 13.9}
+2025-08-06 00:35:59,459: Attributes sent and acknowledged
+2025-08-06 00:36:10,470: Measured attributes: {'upload_bandwidth': 0.907210747172115, 'download_bandwidth': 1.9051425690614414, 'storage': 88.21267700195312, 'cpu': 14.6}
+2025-08-06 00:36:10,476: Attributes sent and acknowledged
+2025-08-06 00:36:21,485: Measured attributes: {'upload_bandwidth': 11.436644860355514, 'download_bandwidth': 4.992186248567883, 'storage': 88.21257019042969, 'cpu': 9.5}
+2025-08-06 00:36:21,497: Attributes sent and acknowledged
+2025-08-06 00:36:32,509: Measured attributes: {'upload_bandwidth': 3.5387389913228584, 'download_bandwidth': 4.627581757883738, 'storage': 88.21257781982422, 'cpu': 12.9}
+2025-08-06 00:36:32,521: Attributes sent and acknowledged
+2025-08-06 00:36:43,532: Measured attributes: {'upload_bandwidth': 3.5378447508146365, 'download_bandwidth': 6.89426156569006, 'storage': 88.21257019042969, 'cpu': 8.8}
+2025-08-06 00:36:43,545: Attributes sent and acknowledged
+2025-08-06 00:36:54,556: Measured attributes: {'upload_bandwidth': 1.8141961764326267, 'download_bandwidth': 2.3584550293624145, 'storage': 88.21039199829102, 'cpu': 15.6}
+2025-08-06 00:36:54,565: Attributes sent and acknowledged
+2025-08-06 00:37:05,571: Measured attributes: {'upload_bandwidth': 11.162489801152743, 'download_bandwidth': 29.494383620932044, 'storage': 88.21027755737305, 'cpu': 32.7}
+2025-08-06 00:37:05,577: Attributes sent and acknowledged
+2025-08-06 00:37:16,583: Measured attributes: {'upload_bandwidth': 34.595371684610754, 'download_bandwidth': 497.9554286572319, 'storage': 88.20428848266602, 'cpu': 32.8}
+2025-08-06 00:37:16,588: Attributes sent and acknowledged
+2025-08-06 00:37:27,595: Measured attributes: {'upload_bandwidth': 9.811558953621331, 'download_bandwidth': 130.54824274401716, 'storage': 88.20951461791992, 'cpu': 25.3}
+2025-08-06 00:37:27,602: Attributes sent and acknowledged
+2025-08-06 00:37:38,614: Measured attributes: {'upload_bandwidth': 4.900610580268382, 'download_bandwidth': 124.51180955793001, 'storage': 88.2095832824707, 'cpu': 28.7}
+2025-08-06 00:37:38,624: Attributes sent and acknowledged
+2025-08-06 00:37:49,633: Measured attributes: {'upload_bandwidth': 47.28614268444855, 'download_bandwidth': 719.8203409411927, 'storage': 88.16872024536133, 'cpu': 79.4}
+2025-08-06 00:37:49,647: Attributes sent and acknowledged
+2025-08-06 00:38:00,656: Measured attributes: {'upload_bandwidth': 22.947042200513664, 'download_bandwidth': 234.82170852620504, 'storage': 88.1468276977539, 'cpu': 23.3}
+2025-08-06 00:38:00,665: Attributes sent and acknowledged
+2025-08-06 00:38:11,676: Measured attributes: {'upload_bandwidth': 21.054920627948572, 'download_bandwidth': 19.602857136365913, 'storage': 88.15018081665039, 'cpu': 17.9}
+2025-08-06 00:38:11,690: Attributes sent and acknowledged
+2025-08-06 00:38:22,697: Measured attributes: {'upload_bandwidth': 34.28888022068115, 'download_bandwidth': 465.3490887092442, 'storage': 88.13808822631836, 'cpu': 12.9}
+2025-08-06 00:38:22,710: Attributes sent and acknowledged
+2025-08-06 00:38:33,721: Measured attributes: {'upload_bandwidth': 29.672949581008393, 'download_bandwidth': 157.07607255267746, 'storage': 88.1889419555664, 'cpu': 10.6}
+2025-08-06 00:38:33,733: Attributes sent and acknowledged
+2025-08-06 00:38:44,741: Measured attributes: {'upload_bandwidth': 23.586457055034927, 'download_bandwidth': 847.4795454159088, 'storage': 88.19619369506836, 'cpu': 12.0}
+2025-08-06 00:38:44,754: Attributes sent and acknowledged
+2025-08-06 00:38:55,762: Measured attributes: {'upload_bandwidth': 29.398362294141567, 'download_bandwidth': 667.8146496446973, 'storage': 88.18107986450195, 'cpu': 32.7}
+2025-08-06 00:38:55,771: Attributes sent and acknowledged
+2025-08-06 00:39:06,773: Measured attributes: {'upload_bandwidth': 17.253538244249015, 'download_bandwidth': 478.740282229899, 'storage': 88.17528915405273, 'cpu': 18.3}
+2025-08-06 00:39:06,784: Attributes sent and acknowledged
+2025-08-06 00:39:17,790: Measured attributes: {'upload_bandwidth': 5.627860004154777, 'download_bandwidth': 4.357052906442408, 'storage': 88.1749496459961, 'cpu': 21.6}
+2025-08-06 00:39:17,799: Attributes sent and acknowledged
+2025-08-06 00:39:28,810: Measured attributes: {'upload_bandwidth': 5.537345240206176, 'download_bandwidth': 4.08492681654554, 'storage': 88.1749496459961, 'cpu': 28.7}
+2025-08-06 00:39:28,821: Attributes sent and acknowledged
+2025-08-06 00:39:39,829: Measured attributes: {'upload_bandwidth': 3.3570057137729816, 'download_bandwidth': 3.3570057137729816, 'storage': 88.165283203125, 'cpu': 16.0}
+2025-08-06 00:39:39,839: Attributes sent and acknowledged
+2025-08-06 00:39:50,844: Measured attributes: {'upload_bandwidth': 2.8146652972251145, 'download_bandwidth': 5.084556665955046, 'storage': 88.16503524780273, 'cpu': 19.0}
+2025-08-06 00:39:50,856: Attributes sent and acknowledged
+2025-08-06 00:40:01,867: Measured attributes: {'upload_bandwidth': 4.627331095641884, 'download_bandwidth': 4.536599113374396, 'storage': 88.16501235961914, 'cpu': 9.2}
+2025-08-06 00:40:01,880: Attributes sent and acknowledged
+2025-08-06 00:40:12,890: Measured attributes: {'upload_bandwidth': 1.6328510703015884, 'download_bandwidth': 2.6307045021525592, 'storage': 88.16342163085938, 'cpu': 7.8}
+2025-08-06 00:40:12,903: Attributes sent and acknowledged
+2025-08-06 00:40:23,910: Measured attributes: {'upload_bandwidth': 2.0865470791107006, 'download_bandwidth': 1.5422304497774744, 'storage': 88.16129684448242, 'cpu': 16.0}
+2025-08-06 00:40:23,920: Attributes sent and acknowledged
+2025-08-06 00:40:34,931: Measured attributes: {'upload_bandwidth': 5.718003302898544, 'download_bandwidth': 4.356573945065557, 'storage': 88.1612548828125, 'cpu': 7.2}
+2025-08-06 00:40:34,944: Attributes sent and acknowledged
+2025-08-06 00:40:45,953: Measured attributes: {'upload_bandwidth': 2.812065862808711, 'download_bandwidth': 4.98914911143481, 'storage': 88.16124725341797, 'cpu': 8.9}
+2025-08-06 00:40:45,965: Attributes sent and acknowledged
+2025-08-06 00:40:56,974: Measured attributes: {'upload_bandwidth': 0.8166525862392915, 'download_bandwidth': 2.1777402299714437, 'storage': 88.16015243530273, 'cpu': 13.2}
+2025-08-06 00:40:56,984: Attributes sent and acknowledged
+2025-08-06 00:41:07,994: Measured attributes: {'upload_bandwidth': 2.5411369525985035, 'download_bandwidth': 1.8150978232846453, 'storage': 88.15915298461914, 'cpu': 7.9}
+2025-08-06 00:41:08,007: Attributes sent and acknowledged
+2025-08-06 00:41:19,017: Measured attributes: {'upload_bandwidth': 2.3585491393349187, 'download_bandwidth': 3.628537137438337, 'storage': 88.15906143188477, 'cpu': 7.1}
+2025-08-06 00:41:19,030: Attributes sent and acknowledged
+2025-08-06 00:41:30,037: Measured attributes: {'upload_bandwidth': 2.902997284044557, 'download_bandwidth': 2.540122623538987, 'storage': 88.15906143188477, 'cpu': 8.3}
+2025-08-06 00:41:30,051: Attributes sent and acknowledged
+2025-08-06 00:41:41,060: Measured attributes: {'upload_bandwidth': 3.901908919826648, 'download_bandwidth': 6.351944753206171, 'storage': 88.15902328491211, 'cpu': 10.0}
+2025-08-06 00:41:41,073: Attributes sent and acknowledged
+2025-08-06 00:41:52,081: Measured attributes: {'upload_bandwidth': 12.79166600155707, 'download_bandwidth': 122.65483995819261, 'storage': 88.15830612182617, 'cpu': 21.7}
+2025-08-06 00:41:52,093: Attributes sent and acknowledged
+2025-08-06 00:42:03,100: Measured attributes: {'upload_bandwidth': 13.431195836594721, 'download_bandwidth': 568.8292939444304, 'storage': 88.15906524658203, 'cpu': 15.0}
+2025-08-06 00:42:03,113: Attributes sent and acknowledged
+2025-08-06 00:42:14,122: Measured attributes: {'upload_bandwidth': 3.901977298162135, 'download_bandwidth': 4.174208272452517, 'storage': 88.15470123291016, 'cpu': 28.8}
+2025-08-06 00:42:14,132: Attributes sent and acknowledged
+2025-08-06 00:42:25,142: Measured attributes: {'upload_bandwidth': 0.6352759768753629, 'download_bandwidth': 0.6352759768753629, 'storage': 88.15364456176758, 'cpu': 16.1}
+2025-08-06 00:42:25,152: Attributes sent and acknowledged
+2025-08-06 00:42:36,160: Measured attributes: {'upload_bandwidth': 3.811897361042925, 'download_bandwidth': 3.1765811342024377, 'storage': 88.1537094116211, 'cpu': 11.0}
+2025-08-06 00:42:36,172: Attributes sent and acknowledged
+2025-08-06 00:42:47,182: Measured attributes: {'upload_bandwidth': 4.898969717578241, 'download_bandwidth': 7.167011253494094, 'storage': 88.15763854980469, 'cpu': 15.6}
+2025-08-06 00:42:47,194: Attributes sent and acknowledged
+2025-08-06 00:42:58,206: Measured attributes: {'upload_bandwidth': 4.808578074298462, 'download_bandwidth': 7.53041472012778, 'storage': 88.16433715820312, 'cpu': 12.5}
+2025-08-06 00:42:58,218: Attributes sent and acknowledged
+2025-08-06 00:43:09,229: Measured attributes: {'upload_bandwidth': 1.904929879940631, 'download_bandwidth': 1.632797039949112, 'storage': 88.16400909423828, 'cpu': 8.2}
+2025-08-06 00:43:09,241: Attributes sent and acknowledged
+2025-08-06 00:43:20,248: Measured attributes: {'upload_bandwidth': 5.8063148095114085, 'download_bandwidth': 13.427102996995131, 'storage': 88.16353225708008, 'cpu': 11.2}
+2025-08-06 00:43:20,260: Attributes sent and acknowledged
+2025-08-06 00:43:31,268: Measured attributes: {'upload_bandwidth': 5.807796919773114, 'download_bandwidth': 5.263315958544385, 'storage': 88.15250778198242, 'cpu': 7.1}
+2025-08-06 00:43:31,280: Attributes sent and acknowledged

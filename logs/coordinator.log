@@ -116,3 +116,137 @@
 2025-08-06 00:44:04,335: Updated attributes for peer test_peer_1
 2025-08-06 00:44:15,351: Received packet from ('127.0.0.1', 51934): attribute_update
 2025-08-06 00:44:15,359: Updated attributes for peer test_peer_1
+2025-08-06 00:44:26,371: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:44:26,378: Updated attributes for peer test_peer_1
+2025-08-06 00:44:37,390: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:44:37,399: Updated attributes for peer test_peer_1
+2025-08-06 00:44:48,409: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:44:48,418: Updated attributes for peer test_peer_1
+2025-08-06 00:44:59,431: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:44:59,439: Updated attributes for peer test_peer_1
+2025-08-06 00:45:10,448: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:45:10,457: Updated attributes for peer test_peer_1
+2025-08-06 00:45:21,467: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:45:21,477: Updated attributes for peer test_peer_1
+2025-08-06 00:45:32,491: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:45:32,499: Updated attributes for peer test_peer_1
+2025-08-06 00:45:43,510: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:45:43,519: Updated attributes for peer test_peer_1
+2025-08-06 00:45:54,528: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:45:54,536: Updated attributes for peer test_peer_1
+2025-08-06 00:46:05,547: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:46:05,556: Updated attributes for peer test_peer_1
+2025-08-06 00:46:16,567: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:46:16,576: Updated attributes for peer test_peer_1
+2025-08-06 00:46:27,587: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:46:27,596: Updated attributes for peer test_peer_1
+2025-08-06 00:46:38,609: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:46:38,617: Updated attributes for peer test_peer_1
+2025-08-06 00:46:49,631: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:46:49,639: Updated attributes for peer test_peer_1
+2025-08-06 00:47:00,652: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:47:00,662: Updated attributes for peer test_peer_1
+2025-08-06 00:47:11,673: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:47:11,682: Updated attributes for peer test_peer_1
+2025-08-06 00:47:22,696: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:47:22,703: Updated attributes for peer test_peer_1
+2025-08-06 00:47:33,713: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:47:33,720: Updated attributes for peer test_peer_1
+2025-08-06 00:47:44,728: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:47:44,735: Updated attributes for peer test_peer_1
+2025-08-06 00:47:55,745: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:47:55,753: Updated attributes for peer test_peer_1
+2025-08-06 00:48:06,760: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:48:06,768: Updated attributes for peer test_peer_1
+2025-08-06 00:48:17,785: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:48:17,793: Updated attributes for peer test_peer_1
+2025-08-06 00:48:28,804: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:48:28,811: Updated attributes for peer test_peer_1
+2025-08-06 00:48:39,819: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:48:39,827: Updated attributes for peer test_peer_1
+2025-08-06 00:48:50,841: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:48:50,849: Updated attributes for peer test_peer_1
+2025-08-06 00:49:01,860: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:49:01,870: Updated attributes for peer test_peer_1
+2025-08-06 00:49:12,886: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:49:12,901: Updated attributes for peer test_peer_1
+2025-08-06 00:49:23,912: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:49:23,919: Updated attributes for peer test_peer_1
+2025-08-06 00:49:34,932: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:49:34,940: Updated attributes for peer test_peer_1
+2025-08-06 00:49:45,953: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:49:45,962: Updated attributes for peer test_peer_1
+2025-08-06 00:49:56,975: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:49:56,983: Updated attributes for peer test_peer_1
+2025-08-06 00:50:07,995: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:50:08,003: Updated attributes for peer test_peer_1
+2025-08-06 00:50:19,015: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:50:19,022: Updated attributes for peer test_peer_1
+2025-08-06 00:50:30,034: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:50:30,041: Updated attributes for peer test_peer_1
+2025-08-06 00:50:41,051: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:50:41,059: Updated attributes for peer test_peer_1
+2025-08-06 00:50:52,071: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:50:52,079: Updated attributes for peer test_peer_1
+2025-08-06 00:51:03,090: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:51:03,099: Updated attributes for peer test_peer_1
+2025-08-06 00:51:14,107: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:51:14,115: Updated attributes for peer test_peer_1
+2025-08-06 00:51:25,122: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:51:25,130: Updated attributes for peer test_peer_1
+2025-08-06 00:51:36,142: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:51:36,150: Updated attributes for peer test_peer_1
+2025-08-06 00:51:47,163: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:51:47,172: Updated attributes for peer test_peer_1
+2025-08-06 00:51:58,185: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:51:58,194: Updated attributes for peer test_peer_1
+2025-08-06 00:52:09,204: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:52:09,212: Updated attributes for peer test_peer_1
+2025-08-06 00:52:20,227: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:52:20,236: Updated attributes for peer test_peer_1
+2025-08-06 00:52:31,248: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:52:31,257: Updated attributes for peer test_peer_1
+2025-08-06 00:52:42,267: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:52:42,275: Updated attributes for peer test_peer_1
+2025-08-06 00:52:53,289: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:52:53,297: Updated attributes for peer test_peer_1
+2025-08-06 00:53:04,307: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:53:04,313: Updated attributes for peer test_peer_1
+2025-08-06 00:53:15,327: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:53:15,333: Updated attributes for peer test_peer_1
+2025-08-06 00:53:26,345: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:53:26,355: Updated attributes for peer test_peer_1
+2025-08-06 00:53:37,369: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:53:37,377: Updated attributes for peer test_peer_1
+2025-08-06 00:53:48,387: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:53:48,390: Updated attributes for peer test_peer_1
+2025-08-06 00:53:59,403: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:53:59,412: Updated attributes for peer test_peer_1
+2025-08-06 00:54:10,425: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:54:10,432: Updated attributes for peer test_peer_1
+2025-08-06 00:54:21,450: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:54:21,459: Updated attributes for peer test_peer_1
+2025-08-06 00:54:32,470: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:54:32,481: Updated attributes for peer test_peer_1
+2025-08-06 00:54:43,486: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:54:43,493: Updated attributes for peer test_peer_1
+2025-08-06 00:54:54,506: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:54:54,513: Updated attributes for peer test_peer_1
+2025-08-06 00:55:05,520: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:55:05,528: Updated attributes for peer test_peer_1
+2025-08-06 00:55:16,537: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:55:16,546: Updated attributes for peer test_peer_1
+2025-08-06 00:55:27,558: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:55:27,566: Updated attributes for peer test_peer_1
+2025-08-06 00:55:38,581: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:55:38,590: Updated attributes for peer test_peer_1
+2025-08-06 00:55:49,604: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:55:49,614: Updated attributes for peer test_peer_1
+2025-08-06 00:56:00,626: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:56:00,634: Updated attributes for peer test_peer_1
+2025-08-06 00:56:11,649: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:56:11,658: Updated attributes for peer test_peer_1
+2025-08-06 00:56:22,668: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:56:22,676: Updated attributes for peer test_peer_1
+2025-08-06 00:56:33,689: Received packet from ('127.0.0.1', 51934): attribute_update
+2025-08-06 00:56:33,698: Updated attributes for peer test_peer_1
